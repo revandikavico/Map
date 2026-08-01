@@ -2,10 +2,17 @@ package adamtri.rs.mymap.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Primary Palette (Deep Blue/Indigo)
+val Blue80 = Color(0xFFADC6FF)
+val BlueGrey80 = Color(0xFFC0C6DC)
+val Indigo80 = Color(0xFFBFC2FF)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Blue40 = Color(0xFF005AC1)
+val BlueGrey40 = Color(0xFF595E72)
+val Indigo40 = Color(0xFF4259A7)
+
+// Custom UI Colors
+val SuccessGreen = Color(0xFF2E7D32)
+val ErrorRed = Color(0xFFD32F2F)
+val WarningOrange = Color(0xFFEF6C00)
+val MapTeal = Color(0xFF00897B)

@@ -1,0 +1,9 @@
+- [x] Update App Name in `strings.xml`
+- [x] Update Theme Colors in `Color.kt`
+- [x] Update `Theme.kt` to use new colors and disable dynamic color
+- [x] Refactor `MapScreen.kt` layout:
+    - [x] Create `FloatingSearchHeader` component
+    - [x] Simplify `BottomSheetContent`
+    - [x] Update styling and icons
+    - [x] Refine `darkMapStyle`
+- [x] Verify build and layout with Preview
